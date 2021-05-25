@@ -1,4 +1,4 @@
 -----
 title: "My Awesome Blog"
-Date: 2021-05-25
+date: 2021-05-25
 -----
